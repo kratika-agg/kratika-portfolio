@@ -1,0 +1,164 @@
+{
+  "settings": {
+  "name": "Kratika Agrawal",
+  "title": "AI/ML Developer • Software Developer",
+  "location": "Delhi NCR, India",
+  "summary": "Computer Science student with a passion for Artificial Intelligence, Machine Learning, and Full-Stack Development. I build technology-driven solutions in healthcare, finance, and e-commerce, with a focus on creating products that solve real-world problems.",
+  "profileImage": "./assets/kratika.jpg"
+},
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Hire Me",
+          "url": "mailto:kratikaagrawal1409@gmail.com"
+        },
+        {
+          "text": "Download Resume",
+          "url": "https://drive.google.com/file/d/1Mz2wbz61KZagXEV7T2XEDiA37uxCwNB3/view"
+        }
+      ]
+    },
+    "about": { "enabled": true, "skills": { "enabled": true, "title": "Technical Skills", "items": [ "Python", "Java", "C", "SQL", "Git", "GitHub", "NumPy", "Pandas", "Scikit-Learn", "Matplotlib", "Machine Learning", "Data Analysis", "React.js", "JavaScript", "TypeScript", "Node.js", "HTML5", "CSS3", "Web Scraping", "Data Structures", "Algorithms" ] } }, "experience": {
+      "enabled": true,
+      "title":"Leadership & Activities" ,
+      "items": [{
+ "company":"Entrepreneurship Cell (E-Cell)",
+ "position":"Member",
+ "period":"2024",
+ "description":[
+   "Participated in startup ideation workshops.",
+   "Contributed to entrepreneurship initiatives and campus events.",
+   "Collaborated with student innovators and founders."
+ ]
+}
+        ,
+        {
+ "company":"Samvaad Theatre Club",
+ "position":"Member",
+ "period":"2024-Present",
+ "description":[
+   "Developed public speaking and stage presence.",
+   "Participated in Nukkad Natak and cultural performances."
+ ]
+}
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+  "title":"CreditWise Loan Approval System",
+  "description":"Machine learning-based loan approval prediction platform using Logistic Regression, KNN, and Naive Bayes models. Includes data preprocessing, feature scaling, and performance evaluation using confusion matrices and F1 scores.",
+  "tags":[
+    "Python",
+    "Scikit-Learn",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "repoUrl":"https://github.com/kratika-ag/CreditWise-Loan-Approval-System"
+}
+        ,
+        {
+  "title": "ArogyaPlus - Pragati AI for Impact",
+  "description": "AI-powered healthcare platform for rural communities and frontline healthcare workers featuring pregnancy risk detection, EHR generation, multilingual assistance, health education, and offline-first accessibility.",
+  "tags": [
+    "AI",
+    "Healthcare",
+    "React",
+    "Node.js"
+  ],
+  "previewUrl": "https://arogyaplus-two.vercel.app/"
+},
+        {
+  "title":"Kleyvora E-Commerce",
+  "description":"Responsive e-commerce platform built for a specialized mobile-holder retailer focusing on performance optimization, responsive design, and conversion-focused user experience.",
+  "tags":[
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "repoUrl":"https://github.com/kratika-ag/Kleyvora-Ecommerce"
+}
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+ "institution":"ABES Engineering College",
+ "degree":"B.Tech - Computer Science Engineering (CGPA: 8.3)",
+ "period":"2023 - 2027"
+}
+        
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Leadership",
+      "items": [
+        {
+  "title":"Academic Excellence - 8.3 CGPA",
+  "description":"ABES Engineering College"
+},
+ {
+  "title":"Built AI-Powered Healthcare Solution",
+  "description":"Pragati AI for Impact"
+ },
+ {
+  "title":"Developed End-to-End ML Loan Approval System",
+  "description":"CreditWise"
+ },
+ {
+  "title":"Freelance Web Developer",
+  "description":"Kleyvora E-Commerce"
+ },
+ {
+  "title":"Active Member of Entrepreneurship Ecosystem",
+  "description":"E-Cell"
+ }
+]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email":"kratikaagrawal1409@gmail.com",
+      "phone":"9837987646",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/kratikaa/",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/kratika-ag",
+          "icon": "github"
+        },
+        {
+          "platform": "leetcode",
+          "url": "https://leetcode.com/u/Kratikaa_Agrawal/",
+          "icon": "leetcode"
+        }
+      ]
+    },
+    "navigation": {
+      "enabled": true,
+      "items": [
+        { "name": "Home", "url": "/" },
+        { "name": "About", "url": "#about" },
+        { "name": "Experience", "url": "#experience" },
+        { "name": "Projects", "url": "#projects" },
+        { "name": "Education", "url": "#education" },
+        { "name": "Contact", "url": "#contact" }
+      ]
+    }
+  }
+}
