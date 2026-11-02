@@ -1,7 +1,6 @@
 # Kratika Agrawal Portfolio
 
-Personal portfolio website showcasing my projects, skills, education, and experience.
-
+Personal portfolio website showcasing my projects, skills, education, and experiences and achievements.
 ## About Me
 
 Computer Science student passionate about Artificial Intelligence, Machine Learning, Software Development, and Entrepreneurship.
