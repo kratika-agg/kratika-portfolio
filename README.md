@@ -1,4 +1,4 @@
-# Kratika Agrawal Portfolioo
+# Kratika Agrawal Portfolio
 
 Personal portfolio website showcasing my projects, skills, education, and experiences.
 ## About Me
