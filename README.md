@@ -7,7 +7,7 @@ Computer Science student passionate about Artificial Intelligence, Machine Learn
 
 ## Projects
 
-### CreditWise Loan Approval System
+### CreditWise Loan Approval Systems
 
 Machine learning-based loan approval prediction platform using Logistic Regression, KNN, and Naive Bayes.
 
