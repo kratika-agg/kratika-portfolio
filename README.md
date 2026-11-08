@@ -5,7 +5,7 @@ Personal portfolio website showcasing my projects, skills, education and experie
 
 Computer Science student passionate about Artificial Intelligence, Machine Learning, Software Development, and Entrepreneurship.
 
-## Projects
+## Projects made in engineering 
 🚀 Featured Projects
 
 1. Flappy Bird AI — Deep Reinforcement Learning
