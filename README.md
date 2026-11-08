@@ -5,7 +5,7 @@ Personal portfolio website showcasing my projects, skills, education and experie
 
 Computer Science student passionate about Artificial Intelligence, Machine Learning, Software Development, and Entrepreneurship.
 
-## Projects made in engineering 
+## Projects
 🚀 Featured Projects
 
 1. Flappy Bird AI — Deep Reinforcement Learning
@@ -59,7 +59,7 @@ View Repository
 * Git & GitHub
 * Data Structures & Algorithms
 
-## Contact
+## Contact information 
 
 Email: [kratikaagrawal1409@gmail.com](mailto:kratikaagrawal1409@gmail.com)
 
